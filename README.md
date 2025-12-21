@@ -2,6 +2,9 @@
 ## Cloud Computing Student
 I am currently building a home lab using Oracle Cloud (ARM).
 
+
+![Snake animation](https://github.com/r-Shivansh01/r-Shivansh01/blob/output/github-snake.svg)
+
 ### 🛠️ Tech Stack
 * **Cloud:** Oracle OCI, AWS
 * **Containerization:** Docker, Kubernetes
