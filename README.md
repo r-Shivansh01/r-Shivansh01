@@ -9,6 +9,7 @@ I am currently building a home lab using Oracle Cloud (ARM).
 * **Cloud:** Oracle OCI, AWS
 * **Containerization:** Docker, Kubernetes
 * **Languages:** Python, Bash
+* **Blockchain:** Solidity, Foundry
 
 ### 🚀 Current Projects
 * **[CloudLab_01](link_to_your_repo):** A Python-based server health checker.
