@@ -63,7 +63,7 @@ A Python-based server health checker built while experimenting with my home lab 
 
 <div align="center">
 
-[![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-Shivansh01&show_icons=true&theme=radium)](https://github.com/r-Shivansh01)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-Shivansh01&layout=compact&theme=radium)](https://github.com/r-Shivansh01)
+[![Shivansh's GitHub stats](https://github-readme-stats.shion.dev/api?username=r-Shivansh01&show_icons=true&theme=radium)](https://github.com/r-Shivansh01)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=r-Shivansh01&layout=compact&theme=radium)](https://github.com/r-Shivansh01)
 
 </div>
