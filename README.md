@@ -12,6 +12,16 @@
 
 ---
 
+### 🐍 The Commit Eating Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/r-Shivansh01/r-Shivansh01/blob/output/github-snake.svg)
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 Here are some of the key projects I've been working on:
@@ -55,15 +65,5 @@ A Python-based server health checker built while experimenting with my home lab 
 
 [![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-Shivansh01&show_icons=true&theme=radium)](https://github.com/r-Shivansh01)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-Shivansh01&layout=compact&theme=radium)](https://github.com/r-Shivansh01)
-
-</div>
-
----
-
-### 🐍 The Commit Eating Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/r-Shivansh01/r-Shivansh01/blob/output/github-snake.svg)
 
 </div>
